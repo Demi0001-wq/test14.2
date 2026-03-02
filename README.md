@@ -53,7 +53,8 @@ pytest
 ### Coverage Report
 To generate a coverage report:
 ```bash
-pytest --cov=src --cov-report=term-missing
+pytest --cov=src --cov-report=html
 ```
+The report will be generated in the `htmlcov/` directory. Open `htmlcov/index.html` in your browser to view it.
 
 The project maintains a high test coverage for all core logic.
