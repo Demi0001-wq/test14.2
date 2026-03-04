@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 .pytest_cache/
 .coverage
-htmlcov/
+# htmlcov/ removed to allow pushing report as requested by mentor
+
 
 # Logs and temporary files
 *.log
