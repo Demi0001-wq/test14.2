@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+# htmlcov/ removed to allow pushing report as requested by mentor
+
+
+# Logs and temporary files
+*.log
+*.txt
+!README.md
